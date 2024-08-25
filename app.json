@@ -8,8 +8,6 @@ function App() {
       <Tabs />
     </div>
   );
-}
-
 export default App;
   "expo": {
     "name": "final",
@@ -47,3 +45,4 @@ export default App;
   }
 }
 
+}
