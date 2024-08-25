@@ -11,4 +11,4 @@ const CurrentTab = () => {
   );
 };
 
-export default CurrentTab;
+export default new tab;
